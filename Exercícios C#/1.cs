@@ -9,6 +9,7 @@ internal class Program
 {
 static void Main(string[] args)
 {
+// Codifique um programa que leia um número inteiro qualquer e imprima o seu sucessor e seu antecessor. //
 int numero;
 int sucessor;
 int antecessor;
