@@ -12,10 +12,10 @@ static void Main(string[] args)
 int numero;
 int sucessor;
 int antecessor;
-sucessor = numero + 1;
-antecessor = numero - 1;
 Console.WriteLine("Digite um número qualquer: ");
 numero = Convert.ToInt32(Console.ReadLine());
+sucessor = numero + 1;
+antecessor = numero - 1;
 Console.WriteLine("O sucessor do " + numero + " é " + sucessor);
 Console.WriteLine("O antecessor do " + numero + " é " + antecessor);
 }
