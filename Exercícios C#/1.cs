@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace ConsoleApp1
+{
+internal class Program
+{
+static void Main(string[] args)
+{
+int numero;
+int sucessor;
+int antecessor;
+sucessor = numero + 1;
+antecessor = numero - 1;
+Console.WriteLine("Digite um número qualquer: ");
+numero = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("O sucessor do " + numero + " é " + sucessor);
+Console.WriteLine("O antecessor do " + numero + " é " + antecessor);
+}
+}
+}
