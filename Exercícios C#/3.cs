@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            /*Codifique um programa para realizar a conversão de uma temperatura em graus Celsius para graus Fahrenheit. O programa recebe com entrada a temperatura em Celsius e exibe o resultado da conversão para o usuário. */
+            /*Codifique um programa para realizar a conversão de uma temperatura em graus Celsius para graus Fahrenheit. 
+            O programa recebe com entrada a temperatura em Celsius e exibe o resultado da conversão para o usuário. */
         double celsius;
         double resulT;
         Console.WriteLine("Qual a temperatura em Celsius: ");
