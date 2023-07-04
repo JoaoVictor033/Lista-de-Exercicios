@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Codifique um programa que leia três números reais quaisquer. A seguir o programa calcula e imprime a média aritmética desses três números. //
+            /* Codifique um programa que leia três números reais quaisquer.
+            A seguir o programa calcula e imprime a média aritmética desses três números. */
             int numero1;
             int numero2;
             int numero3;
